@@ -1,0 +1,10 @@
+D:\vs projects\SaveMyData\SaveMyDataService\SaveMyDataService\SaveMyDataServiceTestApp\bin\Debug\SaveMyDataServiceTestApp.exe.config
+D:\vs projects\SaveMyData\SaveMyDataService\SaveMyDataService\SaveMyDataServiceTestApp\bin\Debug\SaveMyDataServiceTestApp.exe
+D:\vs projects\SaveMyData\SaveMyDataService\SaveMyDataService\SaveMyDataServiceTestApp\bin\Debug\SaveMyDataServiceTestApp.pdb
+D:\vs projects\SaveMyData\SaveMyDataService\SaveMyDataService\SaveMyDataServiceTestApp\bin\Debug\SaveMyDataCL.dll
+D:\vs projects\SaveMyData\SaveMyDataService\SaveMyDataService\SaveMyDataServiceTestApp\bin\Debug\SaveMyDataCL.pdb
+D:\vs projects\SaveMyData\SaveMyDataService\SaveMyDataService\SaveMyDataServiceTestApp\obj\Debug\SaveMyDataServiceTestApp.csproj.CoreCompileInputs.cache
+D:\vs projects\SaveMyData\SaveMyDataService\SaveMyDataService\SaveMyDataServiceTestApp\obj\Debug\SaveMyDataServiceTestApp.csproj.CopyComplete
+D:\vs projects\SaveMyData\SaveMyDataService\SaveMyDataService\SaveMyDataServiceTestApp\obj\Debug\SaveMyDataServiceTestApp.exe
+D:\vs projects\SaveMyData\SaveMyDataService\SaveMyDataService\SaveMyDataServiceTestApp\obj\Debug\SaveMyDataServiceTestApp.pdb
+D:\vs projects\SaveMyData\SaveMyDataService\SaveMyDataService\SaveMyDataServiceTestApp\obj\Debug\SaveMyDataServiceTestApp.csprojAssemblyReference.cache

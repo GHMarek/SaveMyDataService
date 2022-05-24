@@ -1,0 +1,6 @@
+D:\vs projects\SaveMyData\SaveMyDataService\SaveMyDataService\SaveMyDataCL\bin\Debug\SaveMyDataCL.dll
+D:\vs projects\SaveMyData\SaveMyDataService\SaveMyDataService\SaveMyDataCL\bin\Debug\SaveMyDataCL.pdb
+D:\vs projects\SaveMyData\SaveMyDataService\SaveMyDataService\SaveMyDataCL\obj\Debug\SaveMyDataServiceLibrary.csprojAssemblyReference.cache
+D:\vs projects\SaveMyData\SaveMyDataService\SaveMyDataService\SaveMyDataCL\obj\Debug\SaveMyDataServiceLibrary.csproj.CoreCompileInputs.cache
+D:\vs projects\SaveMyData\SaveMyDataService\SaveMyDataService\SaveMyDataCL\obj\Debug\SaveMyDataCL.dll
+D:\vs projects\SaveMyData\SaveMyDataService\SaveMyDataService\SaveMyDataCL\obj\Debug\SaveMyDataCL.pdb
